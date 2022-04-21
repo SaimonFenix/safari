@@ -718,6 +718,9 @@ a {
     .popular__link{
         margin-bottom: 10px;
     }
+    .slick-btn { 
+    top: -67px;    
+    }
     .gallery__item--inner {   
         grid-template-columns: repeat(1, 1fr);   
     }
