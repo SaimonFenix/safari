@@ -728,4 +728,14 @@ a {
     .gallery__top{
         flex-wrap: wrap;
     }
+    .footer__box{
+        display: block;
+    }
+    .footer__info,
+    .footer__adress,
+    .footer__contact{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 25px;
+}
 }
