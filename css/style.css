@@ -728,6 +728,9 @@ a {
     .gallery__top{
         flex-wrap: wrap;
     }
+    .booking__input {
+    width: 100%;
+    }
     .footer__box{
         display: block;
     }
