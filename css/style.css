@@ -737,5 +737,8 @@ a {
     width: 100%;
     text-align: center;
     margin-bottom: 25px;
-}
+    }
+    .footer__adress--text {
+    width: 100%;
+    }
 }
